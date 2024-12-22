@@ -1,5 +1,5 @@
 # 💫 About Me:
-Science Computer studant <br>Em progresso...<br>
+Computer Science studant <br>Em progresso...<br>
 
 
 # 💻 Tech Stack:
