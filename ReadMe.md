@@ -1,5 +1,5 @@
 # 💫 About Me:
-Estudante Ciências da Computação<br>Iniciante no mundo dev<br>
+Science Computer studant <br>Em progresso...<br>
 
 
 # 💻 Tech Stack:
